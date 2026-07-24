@@ -1,10 +1,10 @@
-//class Hello {
-//
-//    public static void main(String[] args) {
-//        System.out.println(charExpression(1));
-//    }
-//
-//    public static char charExpression(int a) {
-//        return (char) ('a' + a);
-//    }
-//}
+class Hello {
+
+    public static void main(String[] args) {
+        System.out.println(charExpression(1));
+    }
+
+    public static char charExpression(int a) {
+        return (char) ('a' + a);
+    }
+}
